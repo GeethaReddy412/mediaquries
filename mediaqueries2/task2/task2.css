@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.div{
+    padding: 0px;
+}
+@media  screen and (width < 700px) {
+    div{
+        padding:10px;
+    }
+}
+ @media screen and (width >=700px) {
+    div{
+        padding:30px;
+    }
+    
+ }

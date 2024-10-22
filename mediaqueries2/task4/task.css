@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+@media screen and (width >=800px) {
+    h1{
+        color: rgb(79, 126, 183);
+    }
+    
+}
+@media screen and (width <=800px) {
+    h1{
+        color:green ;
+    }
+    
+}

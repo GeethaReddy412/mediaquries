@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    
+}
+@media screen and (width <400px) {
+    h1{
+        font-size: 20px;
+    }
+    
+}
+@media screen and (width >=400px)and(width <900px) {
+    h1{
+        font-size: 28px;
+    }
+    
+}
+@media screen and (width >=900px) {
+    h1{
+        font-size: 36px;
+    }
+    
+}
+
+

@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.p{
+    width: 100px;
+    
+}
+
+
+@media screen and (width < 500px) {
+    p{
+        text-align: center;
+        
+        
+    }
+    
+}
+@media  screen and (width >= 500px) {
+    p{
+        text-align: left;
+    }
+}

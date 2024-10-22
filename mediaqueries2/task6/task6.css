@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 50px;
+    background-color: aqua;
+    /* box-shadow: 10px  10px  rgb(160, 119, 89); */
+}
+@media screen and (width >= 600px) {
+    div{
+     box-shadow: 10px 10px rgb(47, 37, 21);
+    }
+    
+}
